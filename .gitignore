@@ -3117,6 +3117,13 @@ packaging/solaris/postinstall-solaris
 client/mysql_install_db
 internal/tests/open_files_limit
 client/mysql_ssl_rsa_setup
-
+bld
+bld_debug
+clion-cmake-build-debug
+.gradle
+.idea
+plugin/arkit
+boost
+sublime-bld
 # Allow
 !include/*/boost/geometry/*
